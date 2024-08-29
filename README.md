@@ -1,4 +1,4 @@
-# NLI_project
+# The COVID-19 infodemic : Telling Facts from Fakes
 This repository contains the code for the project at Factually Health Inc. The project title is: The COVID-19 infodemic : Telling Facts from Fakes.
 
 ## Table of contents
