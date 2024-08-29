@@ -28,7 +28,7 @@ In this work, we propose our own method for scientific verifications. A three-st
 - Rationale selection: this step extracts the rationale sentences (top k) by comparing the claim with each sentence of an abstract. In this paper, we will restrict the comparisons to the abstracts. Yet, owing to the low computational cost of semantic search, comparing every sentence of a document (not just the abstract) is possible and could be accomplished in a very short time (which would be our future work).
 - Label prediction: this step judges whether the document supports, refutes or contains no information for the claim based on the extracted rationale sentences from the previous step. 
 
-![image]([https://github.com/fridaymonday123/fakenews/blob/main/1.png])
+![image][https://github.com/fridaymonday123/fakenews/blob/main/1.png]
 
 
 ## Dependencies
