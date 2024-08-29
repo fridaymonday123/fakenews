@@ -1,5 +1,5 @@
 # NLI_project
-This repository contains the code for the Postdoctoral Fellowship project at Factually Health Inc. The project title is: The COVID-19 infodemic : Telling Facts from Fakes.
+This repository contains the code for the project at Factually Health Inc. The project title is: The COVID-19 infodemic : Telling Facts from Fakes.
 
 ## Table of contents
 - [Introduction](#Introduction)
@@ -84,4 +84,4 @@ The 36 claims COVID claims can be found at [covid/claims.txt](covid/claims.txt).
 
 ## Contact
 
-Email: `vanessaxuanliu@gmail.com`.
+Email: `fridaymonday@hotmail.com`.
